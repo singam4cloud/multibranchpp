@@ -5,7 +5,7 @@ pipeline {
             steps {
                 sh '''#!/bin/bash
                 echo "Hello World!"
-		echo "Hello World 1 - Feature1 Branch!"
+		echo "Hello World! - Feature2 Branch!"
                 '''
             }
         }
